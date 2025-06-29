@@ -103,19 +103,14 @@ A minimal testbench for basic verification.
 
 This image displays the simulation waveform output. It shows the correct selection of inputs based on all `sel1:sel0` combinations over 640ns.
 
-```markdown
 ![Screenshot 2025-06-29 194853](https://github.com/user-attachments/assets/8587bd34-d78c-4751-80e7-fcf8bc7aa257)
-```
 
----
 
 ## 🖥️ Console Output
 
 Console log from `$display` showing test results:
 
-```markdown
 ![Screenshot 2025-06-29 195207](https://github.com/user-attachments/assets/7a79da5c-bbaf-4a08-a6d6-4b32272c601e)
-```
 
 
 
